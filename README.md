@@ -4,16 +4,6 @@
 
 -  💻  Junior Backend Developer at [@Sensedia](https://www.sensedia.com.br/) with knowledge of building and maintaning systems for Open Finance, CRMs and Web Development.
 
-<br>
-
-<div align="left"><a href=""/></div>
-
- <div align="left">
-  <a href="https://github.com/luizanascimentoesilva">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=luizanascimentoesilva&show_icons=true&theme=blueberry"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizanascimentoesilva&langs_count=7&theme=blueberry&layout=compact"/>
-</div>
-
 <br><br>
  
  ## 🖥️ Tech Stack 
