@@ -4,7 +4,7 @@
 
 -  💻  Junior Backend Developer at [@Sensedia](https://www.sensedia.com.br/) with knowledge of building and maintaning systems for Open Finance, CRMs and Web Development.
 
-<br><br>
+<br>
  
  ## 🖥️ Tech Stack 
  
