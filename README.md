@@ -51,7 +51,7 @@ I'm **Luiza Nascimento e Silva** — Back End Developer at [@Sensedia](https://w
 
 ## 📊 GitHub Stats
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=luizanascimento1996&layout=compact&theme=dark&hide_border=true)](https://github.com/luizanascimento1996)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=luizanascimentoesilva&layout=compact&theme=dark&hide_border=true)](https://github.com/luizanascimentoesilva)
 
 <br>
 
@@ -59,10 +59,10 @@ I'm **Luiza Nascimento e Silva** — Back End Developer at [@Sensedia](https://w
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:luiza.nascimentocc@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiza-nascimento-e-silva-7b05b0177/)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011?style=flat&logo=github&logoColor=white)](https://github.com/luizanascimento1996)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011?style=flat&logo=github&logoColor=white)](https://github.com/luizanascimentoesilva)
 
-Feel free to leave a 💬 in my [guestbook](https://github.com/luizanascimento1996/luizanascimento1996/issues)!
+Feel free to leave a 💬 in my [guestbook](https://github.com/luizanascimentoesilva/luizanascimentoesilva/issues)!
 
-![Visitors](https://komarev.com/ghpvc/?username=luizanascimento1996&label=Profile%20views&color=0e75b6&style=flat)
+![Visitors](https://komarev.com/ghpvc/?username=luizanascimentoesilva&label=Profile%20views&color=0e75b6&style=flat)
 
 <br>
